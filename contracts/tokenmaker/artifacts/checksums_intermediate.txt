@@ -1,0 +1,1 @@
+7815487e1f0ea0bae1c1c8244f6bcdb1509822fa6bd70590f538276b97da5a78  ./target/wasm32-unknown-unknown/release/tokenmaker.wasm
